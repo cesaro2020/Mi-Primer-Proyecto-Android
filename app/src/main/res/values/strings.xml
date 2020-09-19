@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mi_primer_proyecto_Cesar</string>
+    <string name="fondomarciano">fondomarciano</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="entrar">Entrar</string>
+</resources>

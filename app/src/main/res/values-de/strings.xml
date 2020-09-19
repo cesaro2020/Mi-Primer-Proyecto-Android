@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi_primer_proyecto_Cesar</string>
+    <string name="bienvenido">"Herzlich"</string>
+    <string name="entrar">Reinkommen</string>
+</resources>
